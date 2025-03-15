@@ -1,0 +1,15 @@
+{
+  "hash": "068675a0a37d1d5747773041c1b9b688",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"personal-website\"\n---\n\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nrunif(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1] 0.4015314 0.4260833 0.1687179 0.9765659 0.0296423 0.4431182 0.4932458\n [8] 0.9791941 0.2804351 0.7295655\n```\n\n\n:::\n\n```{.r .cell-code}\nrnorm(10)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n [1]  0.5551930  1.2871074 -0.8051536  1.9713402 -0.4426577  1.2454368\n [7] -1.1327356  1.2591591 -0.4409284  2.0601284\n```\n\n\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nx = 10\nprint(x)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 10\n```\n\n\n:::\n\n```{.r .cell-code}\nx = 15 \nprint(x)\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 15\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
