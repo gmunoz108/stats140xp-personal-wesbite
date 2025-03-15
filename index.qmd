@@ -1,28 +1,30 @@
 ---
-title: "personal-website"
+title: "Gerardo Munoz"
+about:
+  template: broadside
+  image: wesbitepic.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/gmunoz108
+    - text: Email
+      url: "mailto:gmunoz108@g.ucla.edu"
+    - text: Resume
+    
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-```{r}
-runif(10)
-rnorm(10)
-```
-
-```{r}
-x = 10
-print(x)
+Gerardo Munoz is a 4th year Statistics & Data Science student interested in pursuing a career within the medical field. Applying statistical knowledge through machine learning techniques has fostered his interest towards researching heritable diseases within the hispanic community. Download [My Resume](/RenderCV_EngineeringResumes_Theme.pdf).
 
 
 
-x = 15 
-print(x)
-```
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+B.S in Statistics & Data Science | Sept 2021 - June 2025
 
 
+## Experience
+
+CSULA Upward Bound | Teaching Assistant | June 2024 - July 2024
+
+WESTOP SoCal Leadership Conference | Assistant Coordinator | July 2024

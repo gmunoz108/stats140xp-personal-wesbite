@@ -1,0 +1,11 @@
+---
+title: "projects"
+---
+
+### Project 
+
+Predicting Obesity Status
+
+Within this project, our primary goal persisted of applying exploratory analysis on a data set which consisted of dozens of factors dedicated towards predicting obesity. Through the use of prediction models on training data tsets, we were able to transform our methods into training data sets which supported by classification reports and analysis predicted obesity status. 
+
+Working with my designated teammates, my role within the project attended to the exploratory analysis to which I implemented multiple models. The primary focus was set on random forest models which extended to and Extreme Gradient Boosting approach that ultimately achieved a 98% accuracy level towards correctly predicting obesity status.

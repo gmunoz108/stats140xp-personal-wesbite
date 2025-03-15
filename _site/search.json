@@ -7,10 +7,31 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Project\nPredicting Obesity Status\nWithin this project, our primary goal persisted of applying exploratory analysis on a data set which consisted of dozens of factors dedicated towards predicting obesity. Through the use of prediction models on training data tsets, we were able to transform our methods into training data sets which supported by classification reports and analysis predicted obesity status.\nWorking with my designated teammates, my role within the project attended to the exploratory analysis to which I implemented multiple models. The primary focus was set on random forest models which extended to and Extreme Gradient Boosting approach that ultimately achieved a 98% accuracy level towards correctly predicting obesity status."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal-website",
+    "title": "Gerardo Munoz",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.4015314 0.4260833 0.1687179 0.9765659 0.0296423 0.4431182 0.4932458\n [8] 0.9791941 0.2804351 0.7295655\n\nrnorm(10)\n\n [1]  0.5551930  1.2871074 -0.8051536  1.9713402 -0.4426577  1.2454368\n [7] -1.1327356  1.2591591 -0.4409284  2.0601284\n\n\n\nx = 10\nprint(x)\n\n[1] 10\n\nx = 15 \nprint(x)\n\n[1] 15"
+    "text": "Gerardo Munoz is a 4th year Statistics & Data Science student interested in pursuing a career within the medical field. Applying statistical knowledge through machine learning techniques has fostered his interest towards researching heritable diseases within the hispanic community. Download My Resume."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Gerardo Munoz",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S in Statistics & Data Science | Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Gerardo Munoz",
+    "section": "Experience",
+    "text": "Experience\nCSULA Upward Bound | Teaching Assistant | June 2024 - July 2024\nWESTOP SoCal Leadership Conference | Assistant Coordinator | July 2024"
   }
 ]
